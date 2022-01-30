@@ -9,7 +9,7 @@
     "react-scripts": "5.0.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://paperpatch.github.io/photo-port",
+  "homepage": "http://paperpatch.github.io/photo_port",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
